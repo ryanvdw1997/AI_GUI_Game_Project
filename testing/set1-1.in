@@ -1,0 +1,16 @@
+manual white
+set a3 - black
+dump
+set a2 - black
+dump
+set c4 white white
+dump
+a5-c5
+dump
+set e8 - white
+dump
+set e6 black white
+dump
+c5-f2
+dump
+quit

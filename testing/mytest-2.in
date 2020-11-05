@@ -1,0 +1,15 @@
+# I want to test what happens when both players are manual and playing using aggressive tactics and then assessing what the AI's do from there
+manual White
+manual Black
+g1-e3
+dump
+a5-c5
+dump
+c8-c5
+dump
+h4-f4
+dump
+f1-f4
+dump
+auto White
+auto Black

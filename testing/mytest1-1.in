@@ -1,0 +1,12 @@
+# Test for the ability to switch between automated and manual player
+manual White
+auto Black
+a2-c2
+dump
+a3-c3
+dump
+a4-d1
+dump
+a5-c5
+dump
+auto White

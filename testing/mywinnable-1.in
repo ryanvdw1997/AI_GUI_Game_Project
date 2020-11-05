@@ -1,0 +1,10 @@
+# Answering the question if my AI does better with fewer pieces
+manual White
+set c1 - black
+set g8 - black
+set f8 - black
+set g1 - black
+set b1 - black
+dump
+auto White
+auto Black
